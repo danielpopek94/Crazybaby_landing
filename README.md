@@ -1,6 +1,6 @@
 # Kickstarter landing page
 
-[![Crazybaby_landing](/src/images/Crazybaby_landing-preview.png)](https://danielpopek94.github.io/Crazybaby_landing/)
+[![Crazybaby_landing](/src/images/kickstarter-preview.png)](https://danielpopek94.github.io/Crazybaby_landing/)
 
 [DEMO LINK](https://danielpopek94.github.io/Crazybaby_landing/)
 
@@ -8,7 +8,7 @@ Made on the basis of design [Figma design](https://www.figma.com/file/Ujp7bCFuvu
 
 
 ## Description
-Website design for a Kickstarter project, when I focused on the aesthetic performance of the site.
+Website design for a kickstarter project, when I focused on the aesthetic performance of the site.
 
 ### Technologies used:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
